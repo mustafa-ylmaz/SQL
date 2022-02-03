@@ -17,4 +17,4 @@ customer tablosunda bulunan first_name sütunundaki değeri 'Mary' olan müşter
 
 film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
 
-Select * from film where length<50 and (rental_rate=2.99 or rental_rate!=4.99)**
+**Select * from film where length<50 and (rental_rate=2.99 or rental_rate!=4.99)**
